@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/todos-test-task/static/js/main.455aafcb.js",
+    "index.html": "/todos-test-task/index.html",
+    "main.455aafcb.js.map": "/todos-test-task/static/js/main.455aafcb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.455aafcb.js"
+  ]
+}
